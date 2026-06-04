@@ -11,7 +11,7 @@
 	<groupId>com.ajay</groupId>
 	<artifactId>Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>25_Spring_Boot_MVC_First_Project_19_12_25</name>
 	<description>DP</description>
 	<url/>
