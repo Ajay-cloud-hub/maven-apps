@@ -1,9 +1,9 @@
 package com.ajay.controller;
 
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@RestController
+@Controller
 public class HandlerController {
 
 	@RequestMapping("/home")
